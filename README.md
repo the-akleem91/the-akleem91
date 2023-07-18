@@ -1,21 +1,6 @@
-
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No, thanks
-1 of 3,581
-(no subject)
-Inbox
-
-Daman Ghatoura
-18:49 (0 minutes ago)
-to me
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-### Welcome to my github profile <img align="right" src="https://komarev.com/ghpvc/?username=ravinder-chadha&label=Profile%20views&color=0e75b6&style=plastic" alt="ravinder-chadha" />
+### Welcome to my github profile
 
 <div align="center">
 <img src="name.svg" width="800" height="100" alt="Click to see the source">
@@ -30,15 +15,12 @@ to me
 
  👨‍💻 I’m currently working on [RapidFort/Community-Images](https://github.com/rapidfort/community-images)
 
- 🌱 I’m currently learning **Cyber Security**
-
- 🧑‍🤝‍🧑 I’m looking to collaborate on [Bhagavad-Gita-App](https://github.com/gita/Bhagavad-Gita-App)
+ 🌱 I’m currently learning **Full Stack Development**
 
  🤝 I’m looking for projects to team up!
 
  💬 Ask me about **Development and Programming**
 
- 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1kpw7JCI09RKlfdyWVBW0UytJy23eAnFI/view?usp=sharing)
  
 </div>
 <img align="right" src="assets/tech.gif" alt="pro_coder_gif" height="200">
@@ -54,14 +36,9 @@ to me
 </h2>
 <div style="position: relative;">
 <p align="center" style="padding:20px; background-color: #f8f8f8; border-radius: 15px;">
-<a href="https://twitter.com/wise_wizard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wise_wizard_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravinder-chadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravinder-chadha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17820221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17820221" height="30" width="40" /></a>
-<a href="https://instagram.com/ravinder_chadha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravinder_chadha_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ravinder1233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravinder1233" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ravinderchadha11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravinderchadha11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/wisewizard1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wisewizard1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ravinder_chadha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravinder_chadha_" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/akleem-khan-3a5a51223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravinder-chadha" height="30" width="40" /></a>
+<a href="https://leetcode.com/Akleem786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravinder_chadha_" height="30" width="40" /></a>
 </p>
 </div>
 
@@ -78,17 +55,17 @@ to me
 <details>  
 <summary style="font-size:20px;"> View Stats
 </summary>
-<p><img align="left" style="padding:5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravinder-chadha&langs_count=8&show_icons=true&theme=dark&locale=en&layout=compact" alt="ravinder-chadha" /></p>
+<p><img align="left" style="padding:5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-akleem91&langs_count=8&show_icons=true&theme=dark&locale=en&layout=compact" alt="akleem khan" /></p>
 
-<p>&nbsp;&nbsp;<img align="right" style="padding:2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ravinder-chadha&theme=dark" alt="ravinder-chadha" /></p>
+<p>&nbsp;&nbsp;<img align="right" style="padding:2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=the-akleem91&theme=dark" alt="akleem khan" /></p>
 
-<p align="center" ><img style="padding: 10px;" style="padding:10px;" src="https://github-profile-trophy.vercel.app/?username=ravinder-chadha&theme=darkhub&row=1&column=5" alt="ravinder-chadha" /> </p>
+<p align="center" ><img style="padding: 10px;" style="padding:10px;" src="https://github-profile-trophy.vercel.app/?username=the-akleem91&theme=darkhub&row=1&column=5" alt="akleem khan" /> </p>
 
 </details>
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/ravinder-chadha/ravinder-chadha/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/the-akleem91/the-akleem91/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -98,6 +75,3 @@ to me
 
 </div>
 
- One attachment
-  • Scanned by Gmail
-Hi, I am interested.Thanks for the mail.Thanks, I'll check it out.
