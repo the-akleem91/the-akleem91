@@ -1,6 +1,11 @@
 # 💫 About Me:
 ## **A passionate Fullstack**
-🔭 I’m currently working on a project in Next.js and Node.js<br>👯 I’m looking to collaborate on projects based on Golang and flutter<br>🌱 I’m currently learning Golang<br>💬 Ask me about cricket, movies and anime<br>⚡ Fun fact I also do video editing as a hobby
+👋 Hi there! I'm Akleem Khan
+🚀 Passionate about crafting beautiful, responsive, and user-friendly web experiences.
+💻 Frontend Developer | Next.js | React | CSS Wizard
+🎨 Turning ideas into reality with clean and efficient code.
+📚 Constantly learning and exploring the latest in web development.
+🌟 Let's build something amazing together!
 
 
 
