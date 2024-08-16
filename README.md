@@ -1,10 +1,10 @@
 # 💫 About Me:
 ## **A passionate Fullstack**
-👋 Hi there! I'm Akleem Khan
-🚀 Passionate about crafting beautiful, responsive, and user-friendly web experiences.
-💻 Frontend Developer | Next.js | React | CSS Wizard
-🎨 Turning ideas into reality with clean and efficient code.
-📚 Constantly learning and exploring the latest in web development.
+👋 Hi there! I'm Akleem Khan <br>
+🚀 Passionate about crafting beautiful, responsive, and user-friendly web experiences. <br>
+💻 Frontend Developer | Next.js | React | CSS Wizard <br>
+🎨 Turning ideas into reality with clean and efficient code. <br>
+📚 Constantly learning and exploring the latest in web development. <br>
 🌟 Let's build something amazing together!
 
 
